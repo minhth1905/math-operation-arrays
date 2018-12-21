@@ -1,0 +1,32 @@
+{
+  "name": "math-operation-arrays",
+  "version": "1.0.0",
+  "description": "Simple math operations on arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js --timeout 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhth1905/math-operation-arrays.git"
+  },
+  "keywords": [
+    "array",
+    "operations",
+    "sum",
+    "array",
+    "min",
+    "max"
+  ],
+  "author": "minhth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhth1905/math-operation-arrays/issues"
+  },
+  "homepage": "https://github.com/minhth1905/math-operation-arrays#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.2.0"
+  }
+}
